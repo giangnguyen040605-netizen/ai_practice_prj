@@ -24,26 +24,49 @@
 
 ---
 
-## 3. Thực hành các bài cơ bản
-### 🔹 Bài 1 – *Hello World*
-- Tạo file Python đầu tiên `ex0_hello_world.py` để in thông điệp ra màn hình.  
-- Chạy bằng các công cụ: `python`, `ipython`, hoặc `%run` trong notebook.  
+## 📘 3. Thực hành các bài cơ bản
 
-### 🔹 Bài 2 – *Máy tính đơn giản*
-- Viết chương trình `ex1_calc.py` để nhập 2 số và tính tổng.  
-- Luyện tập nhập/xuất dữ liệu và định dạng kết quả bằng `print()`.
+### 🔹 Bài 1 – Hello World  
+**📄 File:** `ex0_hello_world.py`  
+**Mô tả:**  
+In ra dòng chữ `"Hello, Python World!"`.  
+Chạy bằng `python`, `ipython`, hoặc `%run` trong notebook.  
 
-### 🔹 Bài 3 – *Tính chu vi và diện tích hình tròn*
-- Viết chương trình nhập bán kính, tính chu vi và diện tích.  
-- Rèn kỹ năng dùng thư viện `math`.
+---
 
-### 🔹 Bài 4 – *Biểu đồ ngẫu nhiên (scientific1)*
-- Sinh ngẫu nhiên 50 hình tròn, hiển thị bằng `matplotlib`.  
-- Làm quen với việc trực quan hóa dữ liệu và màu sắc.
+### 🔹 Bài 2 – Máy tính đơn giản  
+**📄 File:** `ex1_calc.py`  
+**Mô tả:**  
+Nhập 2 số `a`, `b` và tính tổng `c = a + b`.  
+Rèn luyện nhập/xuất dữ liệu và định dạng kết quả bằng `print()`.  
 
-### 🔹 Bài 5 – *Vẽ đồ thị sin(x) và cos(x)*
-- Hiển thị đồng thời 2 đường cong sin và cos trong cùng biểu đồ.  
-- Biết cách đặt nhãn trục, chỉnh tỉ lệ, và tùy chỉnh định dạng đồ thị.
+---
+
+### 🔹 Bài 3 – Tính chu vi và diện tích hình tròn  
+**📄 File:** `ex3_circle.py`  
+**Mô tả:**  
+Nhập bán kính `r`, tính:  
+- Chu vi: `cv = 2πr`  
+- Diện tích: `dt = πr²`  
+Sử dụng thư viện `math`.  
+
+---
+
+### 🔹 Bài 4 – Biểu đồ ngẫu nhiên (scientific1)  
+**📄 File:** `ex2_scientific1.ipynb`  
+**Mô tả:**  
+- Sinh ngẫu nhiên **50 hình tròn** (tọa độ, bán kính, màu sắc).  
+- Hiển thị đồ thị bằng `matplotlib`.  
+- Rèn kỹ năng tạo cell **Markdown**, **Code** và **trực quan hóa dữ liệu**.  
+
+---
+
+### 🔹 Bài 5 – Vẽ đồ thị sin(x) và cos(x)  
+**📄 File:** `ex4_scientific2.ipynb`  
+**Mô tả:**  
+- Vẽ đồng thời 2 đồ thị **sin(x)** và **cos(x)** trong đoạn `[-π, π]`.  
+- Dùng `numpy` để sinh dữ liệu, `matplotlib` để vẽ.  
+- Tùy chỉnh **trục**, **nhãn**, **giới hạn** và hiển thị biểu đồ đẹp mắt.  
 
 ---
 
