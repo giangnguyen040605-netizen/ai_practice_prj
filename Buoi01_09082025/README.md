@@ -24,7 +24,7 @@
 
 ---
 
-## 📘 3. Thực hành các bài cơ bản
+## 3. Thực hành các bài cơ bản
 
 ### 🔹 Bài 1 – Hello World  
 **📄 File:** `ex0_hello_world.py`  
