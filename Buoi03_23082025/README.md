@@ -35,5 +35,12 @@ Nắm vững các bước **phân tích dữ liệu khám phá (EDA)** bằng Py
 ---
 
 ## 📁 File trong thư mục [BT] 03 - EDA-Python
+
+---
+
+👩‍💻 **Người thực hiện:** Nguyễn Khoa Châu Giang  
+📧 **Email:** giangnguyen.040605@gmail.com  
+📅 **Buổi 3 – Phân tích và hiển thị dữ liệu với Python**
+
 - `ThuchanhBT(EDA-Python).ipynb`: Notebook chính chứa toàn bộ quy trình phân tích.  
 
