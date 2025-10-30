@@ -36,4 +36,11 @@ File **thực hành trên lớp**, bao gồm:
 - Củng cố kỹ năng lập trình Python cơ bản.  
 - Hiểu rõ và vận dụng các cấu trúc điều khiển (`if`, `for`, `while`).  
 - Biết cách tổ chức chương trình theo module, file và thư mục.  
-- Rèn luyện khả năng phân tích bài toán và chuyển đổi thành thuật toán.  
+- Rèn luyện khả năng phân tích bài toán và chuyển đổi thành thuật toán.
+- 
+---
+
+👩‍💻 **Người thực hiện:** Nguyễn Khoa Châu Giang  
+📧 **Email:** giangnguyen.040605@gmail.com  
+📅 **Buổi 2 – Kỹ thuật lập trình với Python**
+
