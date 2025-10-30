@@ -11,14 +11,14 @@ Toàn bộ bài thực hành được chia thành các phần nhỏ, bao gồm:
 
 ## 📂 Cấu trúc thư mục
 
-### 1️⃣ `BTThuchanh1/`
+### 1️⃣ `BTThuchanh1`
 Chứa các **bài tập thực hành cơ bản** về:
 - Cấu trúc chương trình, nhập – xuất dữ liệu.  
 - Biểu thức toán học và logic.  
 - Cấu trúc điều kiện, lặp và danh sách.  
 (Đã có README chi tiết trong thư mục.)
 
-### 2️⃣ `BTMinhhoa/`
+### 2️⃣ `BTMinhhoa`
 Tổng hợp **các bài tập minh họa và mẫu code hướng dẫn**, bao quát:
 - Hàm cơ bản, xử lý chuỗi, danh sách, ma trận.  
 - Ứng dụng điều kiện và vòng lặp trong các bài toán thực tế.  
