@@ -1,4 +1,5 @@
-# 🐍 Bài tập Python cơ bản
+# Bài tập Python cơ bản
+**📂 Folder:** `Baitapthuchanh1`  
 
 ## 📘 Nội dung thực hành
 
