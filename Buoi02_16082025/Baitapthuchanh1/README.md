@@ -1,4 +1,4 @@
-# Bài tập Python cơ bản
+# 02 KTLTSP - TH - Bai tap thuc hanh 1
 **📂 Folder:** `Baitapthuchanh1`  
 
 ## 📘 Nội dung thực hành
