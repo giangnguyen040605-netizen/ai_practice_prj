@@ -1,6 +1,6 @@
 # BÀI TẬP MINH HỌA PYTHON  
 **📂 Folder:** `BTMinhhoa`  
-## Giới thiệu  
+## 🔹 Giới thiệu  
 Folder tổng hợp **các bài tập thực hành Python cơ bản** nhằm củng cố kiến thức nền tảng về ngôn ngữ lập trình Python.  
 Nội dung bao gồm từ các phép toán đơn giản đến xử lý chuỗi, danh sách, ma trận và cấu trúc dữ liệu nâng cao.  
 
