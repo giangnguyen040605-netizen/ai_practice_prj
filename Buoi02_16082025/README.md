@@ -37,7 +37,7 @@ File **thực hành trên lớp**, bao gồm:
 - Hiểu rõ và vận dụng các cấu trúc điều khiển (`if`, `for`, `while`).  
 - Biết cách tổ chức chương trình theo module, file và thư mục.  
 - Rèn luyện khả năng phân tích bài toán và chuyển đổi thành thuật toán.
-- 
+  
 ---
 
 👩‍💻 **Người thực hiện:** Nguyễn Khoa Châu Giang  
