@@ -4,7 +4,7 @@
 ## 📘 Nội dung thực hành
 
 ### 1️⃣ Bài tập mẫu
-**📄 File:** `ex0_hello_world.py`  
+**📄 File:** `BTMauvaBTTH.ipynb`  
 - **In chuỗi:** Sử dụng `print()` để in văn bản ra màn hình.  
 - **Biểu thức tính toán:** Nhập hai số nguyên `a`, `b` và thực hiện các phép toán `+`, `-`, `*`, `//`, `%`, `/`.  
 - **Biểu thức so sánh:** So sánh hai số thực (`>`, `<`, `>=`, `<=`, `==`, `!=`).  
@@ -12,7 +12,7 @@
 - **Tổng chữ số:** Tính tổng các chữ số của số nguyên có 4 chữ số.
 
 ### 2️⃣ Bài tập thực hành
-**📄 File:** `ex0_hello_world.py`  
+**📄 File:** `BTMauvaBTTH.ipynb`  
 - **In nhãn:** In chuỗi nhiều dòng theo định dạng.  
 - **Tính diện tích & chu vi hình tròn:** Sử dụng công thức `S = 3.14 * R^2`, `P = 2 * 3.14 * R`.  
 - **Đổi thời gian sang giây / sang giờ-phút-giây.**  
