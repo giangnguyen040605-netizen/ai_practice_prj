@@ -43,3 +43,6 @@ Buổi 04 tập trung thực hành **hai nội dung chính**:
 
 ---
 
+👩‍💻 **Người thực hiện:** Nguyễn Khoa Châu Giang  
+📧 **Email:** giangnguyen.040605@gmail.com  
+📅 **Buổi 4 – Phân loại Iris & Phân tích dữ liệu tài chính**
