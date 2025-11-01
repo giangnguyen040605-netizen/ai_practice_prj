@@ -1,4 +1,4 @@
-# BUỔI 5 – Kỹ thuật lập trình Python và Stata  
+# BUỔI 5 – Kỹ thuật lập trình Python và Stata (Online)
 ## 📘 Thực hành với NumPy và Quantitative Investing with Pandas  
 
 ### Mục tiêu  
