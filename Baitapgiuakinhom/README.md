@@ -10,8 +10,8 @@
 - Làm quen với thư viện **Pandas, Seaborn, Matplotlib, Plotly**.
 
 ### Nội dung chính
-#### Thực hiện thống kê mô tả trên tập dữ liệu về phân loại chất lượng rượu đỏ. 
-#### Thực hiện trực quan hóa dữ liệu trên tập dữ liệu về phân loại chất lượng rượu đỏ. 
+#### 🔹 Thực hiện thống kê mô tả trên tập dữ liệu về phân loại chất lượng rượu đỏ. 
+#### 🔹 Thực hiện trực quan hóa dữ liệu trên tập dữ liệu về phân loại chất lượng rượu đỏ. 
 - Đọc dữ liệu và kiểm tra thông tin (`df.info()`).
 - Thống kê mô tả bằng `df.describe()`.
 - Đổi tên cột, xử lý dữ liệu cơ bản.
