@@ -42,5 +42,5 @@ File **thực hành trên lớp**, bao gồm:
 
 👩‍💻 **Người thực hiện:** Nguyễn Khoa Châu Giang  
 📧 **Email:** giangnguyen.040605@gmail.com  
-📅 **Buổi 2 – Kỹ thuật lập trình với Python**
+📅 **Buổi 02 – Kỹ thuật lập trình với Python**
 

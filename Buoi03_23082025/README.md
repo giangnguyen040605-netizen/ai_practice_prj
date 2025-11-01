@@ -1,4 +1,4 @@
-# BUỔI 3: Phân tích và hiển thị dữ liệu với Python (23/08)
+# BUỔI 03: Phân tích và hiển thị dữ liệu với Python (23/08)
 ## Thực hành Exploratory Data Analysis (EDA) trong Python
 ## Mục tiêu  
 Nắm vững các bước **phân tích dữ liệu khám phá (EDA)** bằng Python thông qua bộ dữ liệu **Iris** kinh điển, sử dụng các thư viện phổ biến như `pandas`, `matplotlib`, `seaborn` và `numpy`.  
@@ -41,5 +41,5 @@ Nắm vững các bước **phân tích dữ liệu khám phá (EDA)** bằng Py
 
 👩‍💻 **Người thực hiện:** Nguyễn Khoa Châu Giang  
 📧 **Email:** giangnguyen.040605@gmail.com  
-📅 **Buổi 3 – Phân tích và hiển thị dữ liệu với Python**
+📅 **Buổi 03 – Phân tích và hiển thị dữ liệu với Python**
 

@@ -1,4 +1,4 @@
-# BUỔI 1: Làm quen với môi trường lập trình Python (09/08)
+# BUỔI 01: Làm quen với môi trường lập trình Python (09/08)
 
 ## Mục tiêu
 - Cài đặt môi trường lập trình Python bằng **Anaconda**  
@@ -90,5 +90,5 @@ Sử dụng thư viện `math`.
 
 👩‍💻 **Người thực hiện:** Nguyễn Khoa Châu Giang  
 📧 **Email:** giangnguyen.040605@gmail.com  
-📅 **Buổi 1 – Làm quen với Python & JupyterLab**
+📅 **Buổi 01 – Làm quen với Python & JupyterLab**
 
