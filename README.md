@@ -96,3 +96,4 @@ Phân loại Iris (Naive Bayes), MNIST (Logistic Regression), Wine (Decision Tre
 👩‍💻 **Người thực hiện:** Nguyễn Khoa Châu Giang  
 📧 **Email:** giangnguyen.040605@gmail.com  
 📅 **MSSV:** 31231026719
+🎓 **Lớp:** IV0001
