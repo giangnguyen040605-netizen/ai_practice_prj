@@ -1,4 +1,4 @@
-# 🌍 Phân nhóm quốc gia theo mức phát thải CO₂ (Classification)
+# 🌍 Bài Tập Cuối Kỳ Nhóm 3 - Phân nhóm quốc gia theo mức phát thải CO₂ (Classification)
 
 **File Notebook:** `PhannhomCO2.ipynb`  
 **File dữ liệu:** `DataCO2.xlsx`
