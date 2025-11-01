@@ -2,9 +2,13 @@
 # 🤖 AI Practice Project – Python & Stata Coursework
 
 **Repository:** `ai_practice_prj`  
+
 **Môn học:** Kỹ thuật lập trình với Stata và Python (ECO501188) (Chiều T7)
+
 **LHP:** 25C1ECO50118801
+
 **GVHD:** TS.Đỗ Như Tài
+
 **Mục tiêu:** Tổng hợp toàn bộ bài thực hành và bài tập nhóm trong học phần, từ làm quen Python, phân tích dữ liệu đến mô hình hóa AI và đầu tư định lượng.
 
 ---
