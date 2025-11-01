@@ -1,4 +1,4 @@
-# BUỔI 1: LÀM QUEN VỚI MÔI TRƯỜNG LẬP TRÌNH PYTHON
+# BUỔI 1: Làm quen với môi trường lập trình Python (09/08)
 
 ## Mục tiêu
 - Cài đặt môi trường lập trình Python bằng **Anaconda**  
@@ -53,6 +53,7 @@ Sử dụng thư viện `math`.
 ---
 
 ### 🔹 Bài 4 – Biểu đồ ngẫu nhiên (scientific1)  
+**📂 Folder:** `[BT] 01 - Cài đặt và làm quen môi trường Python`  
 **📄 File:** `ex2_scientific1.ipynb`  
 **Mô tả:**  
 - Sinh ngẫu nhiên **50 hình tròn** (tọa độ, bán kính, màu sắc).  
@@ -61,7 +62,8 @@ Sử dụng thư viện `math`.
 
 ---
 
-### 🔹 Bài 5 – Vẽ đồ thị sin(x) và cos(x)  
+### 🔹 Bài 5 – Vẽ đồ thị sin(x) và cos(x) 
+**📂 Folder:** `[BT] 01 - Cài đặt và làm quen môi trường Python`  
 **📄 File:** `ex4_scientific2.ipynb`  
 **Mô tả:**  
 - Vẽ đồng thời 2 đồ thị **sin(x)** và **cos(x)** trong đoạn `[-π, π]`.  
