@@ -1,4 +1,4 @@
-# BUỎI 07: Bài toán Phân lớp (Classification) (Online)
+# BUỔI 07: Bài toán Phân lớp (Classification) (Online)
 
 ## 📘 Giới thiệu
 Trong buổi học này, chúng ta tìm hiểu và thực hành **ba mô hình phân lớp cơ bản** trong Machine Learning:
