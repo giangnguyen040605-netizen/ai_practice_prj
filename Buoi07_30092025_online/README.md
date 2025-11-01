@@ -15,9 +15,9 @@ Các bài tập được thực hiện trên các tập dữ liệu có sẵn tr
 | Tên file | Mô tả |
 |-----------|-------|
 | **📂 Folder:** `ex01_iris_classification`/`Data` | Dữ liệu mẫu cho bài Iris |
-| `Ex1_Classification_Iris_NaiveBayes.ipynb` | Phân loại hoa Iris bằng mô hình Naive Bayes |
-| `Ex2_Classification_MNIST_LogisticRegression.ipynb` | Phân loại chữ số viết tay MNIST bằng Logistic Regression |
-| `Ex3_Classification_Wine_DecisionTree.ipynb` | Phân loại rượu vang bằng Decision Tree |
+| **📄 File:** `Ex1_Classification_Iris_NaiveBayes.ipynb` | Phân loại hoa Iris bằng mô hình Naive Bayes |
+| **📄 File:** `Ex2_Classification_MNIST_LogisticRegression.ipynb` | Phân loại chữ số viết tay MNIST bằng Logistic Regression |
+| **📄 File:** `Ex3_Classification_Wine_DecisionTree.ipynb` | Phân loại rượu vang bằng Decision Tree |
 
 ---
 
