@@ -88,3 +88,9 @@ Phân loại Iris (Naive Bayes), MNIST (Logistic Regression), Wine (Decision Tre
 
 📚 *Tổng kết:*  
 `ai_practice_prj` lưu trữ toàn bộ tiến trình học tập – từ nền tảng Python, trực quan hóa, đến mô hình hóa và đầu tư định lượng, giúp rèn kỹ năng lập trình, phân tích và tư duy AI trong bối cảnh kinh tế – dữ liệu.
+
+---
+
+👩‍💻 **Người thực hiện:** Nguyễn Khoa Châu Giang  
+📧 **Email:** giangnguyen.040605@gmail.com  
+📅 **MSSV:** 31231026719
