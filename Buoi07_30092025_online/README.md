@@ -66,22 +66,6 @@ Ba bài tập trên giúp hiểu rõ các khái niệm cơ bản trong bài toá
 
 ---
 
-## Thư viện sử dụng
-```python
-import matplotlib.pyplot as plt
-import seaborn as sns
-import pandas as pd
-import numpy as np
-from sklearn import datasets, metrics
-from sklearn.model_selection import train_test_split
-from sklearn.naive_bayes import GaussianNB
-from sklearn.linear_model import LogisticRegression
-from sklearn.tree import DecisionTreeClassifier
-from sklearn.decomposition import PCA
-from sklearn.metrics import ConfusionMatrixDisplay
-
----
-
 👩‍💻 **Người thực hiện:** Nguyễn Khoa Châu Giang  
 📧 **Email:** giangnguyen.040605@gmail.com  
 📅 **Buổi 07 – Bài toán Phân lớp (Classification) (Online)**
