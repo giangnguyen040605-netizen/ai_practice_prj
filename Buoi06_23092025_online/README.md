@@ -1,4 +1,4 @@
-# BUỔI 06 – Tiền xử lý dữ liệu & Mô hình  
+# BUỔI 06 – Tiền xử lý dữ liệu & Mô hình (Online)
 
 ## Mục tiêu  
 Thực hành các kỹ thuật **tiền xử lý dữ liệu (data preprocessing)** và **biến đổi đặc trưng (feature transformation)** trong Python, đồng thời xử lý dữ liệu thiếu và đánh giá hiệu quả mô hình sau khi biến đổi.  
