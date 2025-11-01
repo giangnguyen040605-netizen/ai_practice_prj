@@ -1,4 +1,4 @@
-# BUỔI 5 – Kỹ thuật lập trình Python và Stata (Online)
+# BUỔI 05 – Kỹ thuật lập trình Python và Stata (Online)
 ## 📘 Thực hành với NumPy và Quantitative Investing with Pandas  
 
 ### Mục tiêu  
@@ -34,4 +34,11 @@ Thực hành các kỹ thuật xử lý dữ liệu định lượng trong Pytho
 
 ### Kết quả  
 Củng cố kỹ năng lập trình Python cho **xử lý dữ liệu và đầu tư định lượng**, kết hợp hiệu quả giữa **NumPy** và **Pandas**.
+
+---
+
+👩‍💻 **Người thực hiện:** Nguyễn Khoa Châu Giang  
+📧 **Email:** giangnguyen.040605@gmail.com  
+📅 **Buổi 05 – Kỹ thuật lập trình Python và Stata (Online)**
+
 
