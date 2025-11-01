@@ -59,4 +59,4 @@ Thực hành các kỹ thuật **tiền xử lý dữ liệu (data preprocessing
 
 👩‍💻 **Người thực hiện:** Nguyễn Khoa Châu Giang  
 📧 **Email:** giangnguyen.040605@gmail.com  
-📅 **Buổi 06 – Tiền xử lý dữ liệu & Mô hình**
+📅 **Buổi 06 – Tiền xử lý dữ liệu & Mô hình (Online)**
