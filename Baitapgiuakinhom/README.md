@@ -1,4 +1,4 @@
-# Bài tập Thực hành Giữa kỳ – Nhóm 3
+# Bài Tập Thực Hành Giữa Kỳ – Nhóm 3
 
 ## 📘 Lab 1 – Thống kê mô tả & Trực quan hóa dữ liệu
 **File:** `Lab1_Ruouvangdo.ipynb`  
